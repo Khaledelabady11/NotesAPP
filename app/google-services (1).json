@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "67424825494",
+    "firebase_url": "https://el-madina-store-default-rtdb.firebaseio.com",
+    "project_id": "el-madina-store",
+    "storage_bucket": "el-madina-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67424825494:android:75762eb96108205d3952b7",
+        "android_client_info": {
+          "package_name": "com.example.coroutines"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67424825494-ubcbankdjm6p9ss6shfsd3ej0lrj3hv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOiR8TvOxTK7dkahAU-RuMOuh8vSqf_Mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67424825494-ubcbankdjm6p9ss6shfsd3ej0lrj3hv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
